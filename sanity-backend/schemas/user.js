@@ -1,5 +1,5 @@
 export default {
-  name: user,
+  name: 'user',
   title: "User",
   type: "document",
   fields: [
